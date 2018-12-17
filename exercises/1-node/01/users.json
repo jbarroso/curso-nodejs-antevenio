@@ -1,0 +1,13 @@
+[
+  { "name": "Bob Wills", "age": 27, "email": "bob.wills@acme.com" },
+  { "name": "Cab Calloway", "age": 68, "email": "cab.calloway@acme.com" },
+  { "name": "Kay Kyser", "age": 72, "email": "kay.kyser@acme.com" },
+  { "name": "Ben Selvin", "age": 42, "email": "ben.selvin@star.com" },
+  { "name": "Jane Andrew", "age": 70, "email": "jane.andrew@acme.com" },
+  { "name": "Billy Andrew", "age": 66, "email": "billy.andrew@wayne.com" },
+  { "name": "Janet Andrew", "age": 19, "email": "janet.andrew@acme.com" },
+  { "name": "Emmet Miller", "age": 32, "email": "emmet.miller@stark.net" },
+  { "name": "Freddie Slack", "age": 46, "email": "freddie.slack@acme.com" },
+  { "name": "Robert Crosby", "age": 57, "email": "robert.crosby@stark.net" },
+  { "name": "Tex Beneke", "age": 67, "email": "tex.beneke@star.com" }
+]
