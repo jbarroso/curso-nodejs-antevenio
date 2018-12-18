@@ -4,7 +4,8 @@
   "description": "exercise-02",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "tdd": "jest --watchAll"
   },
   "author": "elias@redradix.com",
   "license": "ISC",
