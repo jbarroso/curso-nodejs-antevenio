@@ -1,0 +1,19 @@
+{
+  "name": "01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "tdd": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jest": "^23.6.0",
+    "jsonwebtoken": "^8.4.0",
+    "mysql": "^2.16.0",
+    "supertest": "^3.3.0"
+  }
+}

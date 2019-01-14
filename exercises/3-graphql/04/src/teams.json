@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Team1",
+    "points": 1,
+    "matchesPlayed": 2,
+    "players": [
+      {
+        "name": "Player1",
+        "number": 1
+      }
+    ]
+  },
+  {
+    "name": "Team2",
+    "points": 2,
+    "matchesPlayed": 3,
+    "players": [
+      {
+        "name": "Player2",
+        "number": 2
+      }
+    ]
+  }
+]

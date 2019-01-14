@@ -1,15 +1,16 @@
 {
-  "name": "04",
+  "name": "01",
   "version": "1.0.0",
-  "description": "exercise-04",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest",
     "tdd": "jest --watchAll"
   },
-  "author": "elias@redradix.com",
+  "author": "",
   "license": "ISC",
   "dependencies": {
+    "graphql": "^14.0.2",
     "jest": "^23.6.0"
   }
 }

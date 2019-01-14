@@ -1,7 +1,7 @@
 {
   "name": "04",
   "version": "1.0.0",
-  "description": "exercise-04",
+  "description": "exercise-08",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -10,6 +10,7 @@
   "author": "elias@redradix.com",
   "license": "ISC",
   "dependencies": {
-    "jest": "^23.6.0"
+    "jest": "^23.6.0",
+    "mysql": "^2.16.0"
   }
 }
